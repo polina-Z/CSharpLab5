@@ -6,7 +6,7 @@
 * Запуск службы DataManagerAsync
 * Созданные xml и xsd файлы помещаюся в папку OptionDirectory, а затем отправляется на FTP сервер SourceDirectory
 * Затем с помощью службы Service1 файл отправляется в TargetDirectory
-* Продемонстрированы созданные файлы persons.xml 
+* Продемонстрирован созданный файлы persons.xml 
 * Показана заджойненная таблица в ms sql server
 * Показана таблица логов Insights
 * Остановлена работа служб Service1 и DataManager
