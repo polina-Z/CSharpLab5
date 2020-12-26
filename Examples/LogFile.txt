@@ -1,0 +1,8 @@
+Service was started at 26.12.2020 20:13:20
+26.12.2020 20:13:39 file D:\3семестр\Шарпы\Lab5\SourceDirectory\persons.xml was created
+26.12.2020 20:13:39 file D:\3семестр\Шарпы\Lab5\SourceDirectory\persons.xml was changed
+26.12.2020 20:13:39 file D:\3семестр\Шарпы\Lab5\SourceDirectory\persons.xml was changed
+26.12.2020 20:13:39 file D:\3семестр\Шарпы\Lab5\SourceDirectory\persons.xsd was created
+26.12.2020 20:13:39 file D:\3семестр\Шарпы\Lab5\SourceDirectory\persons.xsd was changed
+26.12.2020 20:13:39 file D:\3семестр\Шарпы\Lab5\SourceDirectory\persons.xsd was changed
+26.12.2020 20:13:39 file D:\3семестр\Шарпы\Lab5\SourceDirectory\2020 was created
