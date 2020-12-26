@@ -3,8 +3,8 @@
 В видео продемонстрированы следующие этапы:
 * Запуск службы Service1 (FileWatcherAsync)
 * Папки SourceDirectory, TargeteDirectory, OptionDirectory пусты
-* Запуск службы DataManagerAsunc
-* Созданные xml и xsd файлы помещаюся в папку OptionDirectory, а затем отправляется на Ftp сервер SourceDirectory
+* Запуск службы DataManagerAsync
+* Созданные xml и xsd файлы помещаюся в папку OptionDirectory, а затем отправляется на FTP сервер SourceDirectory
 * Затем с помощью службы Service1 файл отправляется в TargetDirectory
 * Продемонстрированы созданные файлы persons.xml 
 * Показана заджойненная таблица в ms sql server
